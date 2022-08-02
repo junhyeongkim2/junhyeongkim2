@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **junhyeongkim2/junhyeongkim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
