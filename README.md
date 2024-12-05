@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 안녕하세요!</h1>
 
+### 소개
+꾸준함이 쌓여 비범함이 된다는 성장 마인드셋을 가지고 앞으로 나아가고 있는 개발자 김준형입니다
+
 ### 👨‍💼 About Me
-- [Silverithm](https://silverithm.co.kr) founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
+- [Silverithm](https://silverithm.co.kr) 1인 기업 founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
 - [CampRide](https://apps.apple.com/kr/app/%EC%BA%A0%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C/id6737127396) 카풀 택시 커뮤니티 앱 출시를 통해 사용자 중심의 서비스를 운영하고 있습니다
 
 ### 🚀 경력 및 활동
@@ -29,6 +32,7 @@ Here are some ideas to get you started:
   - Spring Framework 및 Hibernate ORM, Naver 등 다양한 오픈소스 컨트리뷰션 경험
 
 - **교육 및 특강**
+  - 팀네이버 DAN 24 HYPERCLOVA X 활용 기술 워크샵 참여
   - 삼성 SDS 알고리즘 특강 수료
   - 실리콘밸리 AI 엔지니어링
  
