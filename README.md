@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">👋 안녕하세요!</h1>
 
 ### 👨‍💼 About Me
-- [Silverithm](https://silverithm.co.kr) Co-founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
+- [Silverithm](https://silverithm.co.kr) founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
 - [CampRide](https://apps.apple.com/kr/app/%EC%BA%A0%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C/id6737127396) 카풀 택시 커뮤니티 앱 출시를 통해 사용자 중심의 서비스를 운영하고 있습니다
 
 ### 🚀 경력 및 활동
