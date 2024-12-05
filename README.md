@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 - **오픈소스 기여**
   - 2024 오픈소스 컨트리뷰션 아카데미 수료
-  - Spring Framework 및 Hibernate ORM 컨트리뷰션
-  - Naver Open Source 프로젝트 기여
+  - Spring Framework 및 Hibernate ORM, Naver 등 다양한 오픈소스 컨트리뷰션 경험
 
 - **교육 및 특강**
   - 삼성 SDS 알고리즘 특강 수료
