@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 꾸준함이 쌓여 비범함이 된다는 성장 마인드셋을 가지고 앞으로 나아가고 있는 개발자 김준형입니다
 
 ### 👨‍💼 About Me
-- [CareV](https://carev.netlify.app) 요양기관 근무표 서비스 케어브이를 출시하여 운영하고 있습니다
-- [Lettie](https://apps.apple.com/kr/app/%EB%A0%88%ED%8B%B0/id6746454876) 글로벌 펜팔 데이팅 앱 레티를 출시하여 운영하고 있습니다
+- [CareV](https://carev.kr) 요양기관 근무표 서비스 케어브이를 출시하여 운영하고 있습니다
+- [Lettie](https://lettie-dating.com) 글로벌 펜팔 데이팅 앱 레티를 출시하여 운영하고 있습니다
 - [Silverithm](https://silverithm.co.kr) 1인 기업 founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
 - [CampRide](https://apps.apple.com/kr/app/%EC%BA%A0%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C/id6737127396) 카풀 택시 커뮤니티 앱 출시를 통해 사용자 중심의 서비스를 운영하고 있습니다
 
