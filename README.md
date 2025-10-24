@@ -13,39 +13,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 안녕하세요!</h1>
+  <h1 align="center">👋 안녕하세요!</h1>
 
-### 소개
-꾸준함이 쌓여 비범함이 된다는 성장 마인드셋을 가지고 앞으로 나아가고 있는 개발자 김준형입니다
+  ### 소개
+  꾸준함이 쌓여 비범함이 된다는 성장 마인드셋을 가지고 앞으로 나아가고 있는 개발자 김준형입니다
 
-### 👨‍💼 About Me
-- [CareV](https://carev.kr) 요양기관 근무표 서비스 케어브이를 출시하여 운영하고 있습니다
-- [Lettie](https://lettie-dating.com) 글로벌 펜팔 데이팅 앱 레티를 출시하여 운영하고 있습니다
-- [Silverithm](https://silverithm.co.kr) 1인 기업 founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
-- [CampRide](https://apps.apple.com/kr/app/%EC%BA%A0%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C/id6737127396) 카풀 택시 커뮤니티 앱 출시를 통해 사용자 중심의 서비스를 운영하고 있습니다
+  ### 👨‍💼 About Me
+  - [VibeScan](https://vibescan.co.kr) AI 웹 보안 취약점 검사 서비스로 웹 애플리케이션의 보안을 강화하고 있습니다
+  - [LiftUpAI](https://apps.apple.com/kr/app/%EB%A6%AC%ED%94%84%ED%8A%B8%EC%97%85ai/id6752910787) 내 손 안의 AI PT 트레이너 앱으로 맞춤형 운동 솔루션을 제공하고 있습니다
+  - [SignalSpot](https://apps.apple.com/kr/app/%EC%8B%9C%EA%B7%B8%EB%84%90%EC%8A%A4%ED%8C%9F/id6751167137) 쪽지 기반 하이퍼로컬 커뮤니티 앱으로 지역 기반 소통 플랫폼을 제공하고 있습니다
+  - [RythmTalkTalk](https://rythmtalktalk.netlify.app/) 무발화 아동 언어치료 앱을 통해 아동 발달 지원 서비스를 운영하고 있습니다
+  - [CareV](https://carev.kr) 요양기관 근무표 서비스 케어브이를 출시하여 운영하고 있습니다
+  - [Lettie](https://lettie-dating.com) 글로벌 펜팔 데이팅 앱 레티를 출시하여 운영하고 있습니다
+  - [Silverithm](https://silverithm.co.kr) 1인 기업 founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
+  - [CampRide](https://apps.apple.com/kr/app/%EC%BA%A0%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C/id6737127396) 카풀 택시 커뮤니티 앱 출시를 통해 사용자 중심의 서비스를 운영하고 있습니다
+  
+  ### 🚀 경력 및 활동
+  - **Google Developer Student Clubs (GDSC)** Lead 2022-2023
+    - 2023 Google Solutions Challenge Global Top 100 달성
+    - 개발 커뮤니티 리딩 및 다양한 프로젝트, 스터디 주도
 
-### 🚀 경력 및 활동
-- **Google Developer Student Clubs (GDSC)** Lead 2022-2023
-  - 2023 Google Solutions Challenge Global Top 100 달성
-  - 개발 커뮤니티 리딩 및 다양한 프로젝트, 스터디 주도
+  - **카카오 AI TOP 100**
+    - 2025 카카오 AI_TOP_100 선정
 
-- **오픈소스 기여**
-  - 2024 오픈소스 컨트리뷰션 아카데미 수료
-  - Spring Framework 및 Hibernate ORM, Naver 등 다양한 오픈소스 컨트리뷰션 경험
+  - **오픈소스 기여**
+    - 2024 오픈소스 컨트리뷰션 아카데미 수료
+    - [MikroORM](https://mikro-orm.io/blog/mikro-orm-6-5-released) 트랜잭션 전파(Transaction Propagation) 기능 구현 및 공식 블로그 소개
+    - Spring Framework 및 Hibernate ORM, Naver 등 다양한 오픈소스 컨트리뷰션 경험
 
-- **교육 및 특강**
-  - 팀네이버 DAN 24 HYPERCLOVA X 활용 기술 워크샵 참여
-  - 삼성 SDS 알고리즘 특강 수료
-  - 실리콘밸리 AI 엔지니어링
- 
-### 💻 Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  - **교육 및 특강**
+    - 팀네이버 DAN 24 HYPERCLOVA X 활용 기술 워크샵 참여
+    - 삼성 SDS 알고리즘 특강 수료
+    - 실리콘밸리 AI 엔지니어링
 
-### 📫 연락처
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/junhyeongkim-62126624a)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ggprgrkjh@naver.com)
+  ### 💻 Tech Stack
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🏆 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnfpr12)](https://solved.ac/rlawnfpr12/)
+  ### 📫 연락처
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junhyeongkim-62126624a)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ggprgrkjh@naver.com)
+
+  ### 🏆 Problem Solving
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnfpr12)](https://solved.ac/rlawnfpr12/)
