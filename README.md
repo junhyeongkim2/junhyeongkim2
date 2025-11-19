@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   - [RythmTalkTalk](https://rythmtalktalk.netlify.app/) 무발화 아동 언어치료 앱을 통해 아동 발달 지원 서비스를 운영하고 있습니다
   - [CareV](https://carev.kr) 요양기관 근무표 서비스 케어브이를 출시하여 운영하고 있습니다
   - [Lettie](https://lettie-dating.com) 글로벌 펜팔 데이팅 앱 레티를 출시하여 운영하고 있습니다
-  - [Silverithm](https://silverithm.co.kr) 1인 기업 founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다
-  - [CampRide](https://apps.apple.com/kr/app/%EC%BA%A0%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C/id6737127396) 카풀 택시 커뮤니티 앱 출시를 통해 사용자 중심의 서비스를 운영하고 있습니다
+  - [Silverithm](https://silverithm.co.kr) 1인 기업 founder로서 혁신적인 인공지능 물류 솔루션 개발에 힘쓰고 있습니다 (서비스 종료)
+  - [CampRide](https://apps.apple.com/kr/app/%EC%BA%A0%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C/id6737127396) 카풀 택시 커뮤니티 앱 출시를 통해 사용자 중심의 서비스를 운영하고 있습니다 (서비스 종료)
   
   ### 🚀 경력 및 활동
   - **Google Developer Student Clubs (GDSC)** Lead 2022-2023
