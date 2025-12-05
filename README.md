@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
   - **카카오 AI TOP 100**
     - 2025 카카오 AI_TOP_100 선정
+    - 몽타주 문제 최고 점수 득점하여 실력발휘상 수상
 
   - **오픈소스 기여**
     - 2024 오픈소스 컨트리뷰션 아카데미 수료
