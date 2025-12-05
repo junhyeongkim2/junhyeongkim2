@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   꾸준함이 쌓여 비범함이 된다는 성장 마인드셋을 가지고 앞으로 나아가고 있는 개발자 김준형입니다
 
   ### 👨‍💼 About Me
+  - [Chrobox](https://chrobox.net) 타임박스 플래너 서비스 앱을 개발하여 운영하고 있습니다
   - [VibeScan](https://vibescan.co.kr) AI 웹 보안 취약점 검사 서비스로 웹 애플리케이션의 보안을 강화하고 있습니다
   - [LiftUpAI](https://apps.apple.com/kr/app/%EB%A6%AC%ED%94%84%ED%8A%B8%EC%97%85ai/id6752910787) 내 손 안의 AI PT 트레이너 앱으로 맞춤형 운동 솔루션을 제공하고 있습니다
   - [SignalSpot](https://apps.apple.com/kr/app/%EC%8B%9C%EA%B7%B8%EB%84%90%EC%8A%A4%ED%8C%9F/id6751167137) 쪽지 기반 하이퍼로컬 커뮤니티 앱으로 지역 기반 소통 플랫폼을 제공하고 있습니다
